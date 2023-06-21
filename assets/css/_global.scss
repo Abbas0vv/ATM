@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.align-i {
+    align-items: center;
+}
+
+.just-cont {
+    justify-content: center;
+}
+
+.center {
+    justify-content: center;
+    align-items: center;
+}
